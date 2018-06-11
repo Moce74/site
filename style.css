@@ -1,0 +1,19 @@
+h1
+{
+    font-size: 2.1em;
+    font-style: italic;
+    color: #81ad55;
+    border: 3px #56af99 solid;
+    box-shadow: 6px 6px 1px black; 
+}
+
+p
+{
+ font-family: arial,'Times New Roman', Times, serif;
+ color: #8a0707
+}
+
+body
+{
+    background-color:white;
+}
